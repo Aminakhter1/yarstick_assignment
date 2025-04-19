@@ -1,4 +1,4 @@
-# 💰 Personal Finance Tracker
+# Personal Finance Tracker
 
 A simple and responsive personal finance tracker built with **React**, **Recharts**, and **Tailwind CSS**. It allows users to manage their income/expenses and visualize monthly spending through a bar chart.
 
@@ -32,7 +32,7 @@ live link:https://yarstick-assignment-l6p2.vercel.app/
 ---
 
 ##  Getting Started
-🚀 Getting Started
+Getting Started
 
 ### 1. Clone the Repository
 
